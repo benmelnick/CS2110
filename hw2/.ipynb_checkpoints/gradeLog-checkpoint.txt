@@ -1,0 +1,11 @@
+Operations.java: 
+	getByte: 1.25/5.0
+		[fail] Failed test case for method getByte. Arguments [-559874102, 2]; Expected return value: 160; Actual: -8544
+		[fail] Failed test case for method getByte. Arguments [1666058002, 1]; Expected return value: 7; Actual: 6508039
+		[fail] Failed test case for method getByte. Arguments [-1091577122, 0]; Expected return value: 222; Actual: -1091577122
+	setShort: 5.0/5.0
+	pack: 5.0/5.0
+	bitRange: 5.0/5.0
+	xor: 5.0/5.0
+	powerOf2: 5.0/5.0
+Final Grade: 26.25/30.0
